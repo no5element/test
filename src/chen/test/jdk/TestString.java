@@ -5,12 +5,6 @@ public class TestString {
     System.out.println("hello git");
     123132
     222
-    we
-    git111
-    
-    
-    
-    
-    222
+123
   }
 }
